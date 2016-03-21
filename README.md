@@ -29,9 +29,9 @@ Execution for others: "java -jar -Xmx4G target/gapIt.jar"
 
 ## Data
 
-Fake data are provided with the distribution.
+Fake data are provided within the distribution.
 
-To get the real data or to integrate your own data, please contact Olivier Parisot (ivonne.trebs@list.lu).
+To get the real data or to integrate your own data, please contact Olivier Parisot (olivier.parisot@list.lu) or Ivonne Trebs (ivonne.trebs@list.lu).
 
 
 ## References
