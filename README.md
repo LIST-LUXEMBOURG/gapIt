@@ -17,8 +17,11 @@ Missing records in hydrological databases represent a loss of information and a 
 ## Installation
 
 Requirements: Maven (>=3.0.2), JDK (>=1.7).
+
 Compilation: "mvn clean package"
+
 Execution for Windows environment: "run.bat"
+
 Execution for others: "java -jar -Xmx4G target/gapIt.jar"
 
 
@@ -26,7 +29,7 @@ Execution for others: "java -jar -Xmx4G target/gapIt.jar"
 
 Fake data are provided with the distribution.
 
-To get the real data, please contact Ivonne Trebs (ivonne.trebs@list.lu).
+To get the real data or to integrate your own data, please contact Olivier Parisot (ivonne.trebs@list.lu).
 
 
 ## References
