@@ -1,0 +1,281 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  
+  <modelVersion>4.0.0</modelVersion>
+
+	<prerequisites>
+   		<maven>3.0.2</maven>
+ 	</prerequisites>	  
+  
+  <groupId>lu.lippmann.cdb.ext.hydviga</groupId>
+  <artifactId>HyMiVApp</artifactId>
+  <version>0.9.2</version>
+  <packaging>jar</packaging>
+
+  <name>HyMiVApp</name>
+  <url>http://maven.apache.org</url>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <mainclass>lu.lippmann.cdb.ext.hydviga.HydroRunner</mainclass>
+  </properties>
+
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.11</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.neo4j</groupId>
+			<artifactId>neo4j</artifactId>
+			<version>1.4.M02</version>
+		</dependency>
+		<dependency>
+			<groupId>net.sf.jung</groupId>
+			<artifactId>jung-api</artifactId>
+			<version>2.0.1</version>
+		</dependency>
+		<dependency>
+			<groupId>net.sf.jung</groupId>
+			<artifactId>jung-visualization</artifactId>
+			<version>2.0.1</version>
+		</dependency>
+		<dependency>
+			<groupId>net.sf.jung</groupId>
+			<artifactId>jung-io</artifactId>
+			<version>2.0.1</version>
+		</dependency>
+		<dependency>
+			<groupId>net.sf.jung</groupId>
+			<artifactId>jung-graph-impl</artifactId>
+			<version>2.0.1</version>
+		</dependency>
+		<dependency>
+			<groupId>org.bushe</groupId>
+			<artifactId>eventbus</artifactId>
+			<version>1.4</version>
+		</dependency>
+		<dependency>
+			<groupId>com.google.inject</groupId>
+			<artifactId>guice</artifactId>
+			<version>3.0</version>
+			<!-- <scope>provided</scope> -->
+		</dependency>
+		<dependency>
+			<groupId>org.java.net.substance</groupId>
+			<artifactId>substance</artifactId>
+			<version>6.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.github.insubstantial</groupId>
+			<artifactId>substance-swingx</artifactId>
+			<version>7.1</version>
+		</dependency>
+		<dependency>
+			<groupId>org.swinglabs</groupId>
+			<artifactId>swingx</artifactId>
+			<version>1.6.1</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.jboss.netty</groupId>
+			<artifactId>netty</artifactId>
+			<version>3.2.3.Final</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>nz.ac.waikato.cms.weka</groupId>
+			<artifactId>weka-dev</artifactId>
+			<version>3.7.10</version>
+		</dependency>
+		<dependency>
+			<groupId>nz.ac.waikato.cms.weka</groupId>
+			<artifactId>EMImputation</artifactId>
+			<version>1.0.2</version>
+		</dependency>
+		<dependency>
+  			<groupId>pentaho.weka</groupId>
+  			<artifactId>pdm-timeseriesforecasting</artifactId>
+  			<version>1.1.1</version>
+		</dependency>			
+		
+		<dependency>
+			<groupId>org.jfree</groupId>
+			<artifactId>jfreechart</artifactId>
+			<version>1.0.14</version>
+		</dependency>
+		<dependency>
+			<groupId>org.jaitools</groupId>
+			<artifactId>jt-utils</artifactId>
+			<version>1.2.0</version>
+		</dependency>
+		<dependency>
+			<groupId>commons-lang</groupId>
+			<artifactId>commons-lang</artifactId>
+			<version>2.6</version>
+		</dependency>
+
+		<!-- Rest easy test -->
+		<dependency>
+			<groupId>org.jboss.resteasy</groupId>
+			<artifactId>resteasy-jaxrs</artifactId>
+			<version>2.2.1.GA</version>
+		</dependency>
+		<dependency>
+			<groupId>org.jboss.resteasy</groupId>
+			<artifactId>resteasy-jackson-provider</artifactId>
+			<version>2.2.1.GA</version>
+		</dependency>
+		<!-- end Rest easy test -->
+
+		<dependency>
+			<groupId>com.googlecode.efficient-java-matrix-library</groupId>
+			<artifactId>ejml</artifactId>
+			<version>0.22</version>
+		</dependency>
+
+		<dependency>
+			<groupId>commons-collections</groupId>
+			<artifactId>commons-collections</artifactId>
+			<version>3.2.1</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-math3</artifactId>
+			<version>3.1.1</version>
+		</dependency>
+		
+	</dependencies>
+
+	<repositories>	    
+	    <repository>
+    		<id>pentaho-releases</id>
+    		<url>http://repository.pentaho.org/artifactory/repo/</url>
+  		</repository>	    
+		<repository>
+			<id>central</id>
+			<name>Maven Repository Switchboard</name>
+			<layout>default</layout>
+			<url>http://repo1.maven.org/maven2</url>
+			<snapshots>
+				<enabled>false</enabled>
+			</snapshots>
+		</repository>
+		<repository>
+			<id>jboss</id>
+			<url>http://repository.jboss.org/nexus/content/groups/public/</url>
+		</repository>
+		<!-- issue with this repo <repository> <id>weka-repo</id> <name>Weka repository</name> 
+			<url>https://maven.ch.cam.ac.uk/m2repo</url> </repository> -->
+		<repository>
+			<id>localproj</id>
+			<url>file://${project.basedir}/lib/</url>
+		</repository>
+		<repository>
+			<id>sanity-maven-repo</id>
+			<name>Sanity's Maven repository on GitHub</name>
+			<url>http://sanity.github.com/maven-repo/repository/</url>
+		</repository>
+	</repositories>
+
+	<build>
+
+		<finalName>gapIt</finalName>
+
+		<plugins>
+		    
+			<plugin>
+        		<groupId>org.apache.maven.plugins</groupId>
+        		<artifactId>maven-jar-plugin</artifactId>
+        		<version>2.6</version>
+        		<configuration>
+          		<archive>
+            		<index>true</index>
+            		<manifest>
+              			<addClasspath>true</addClasspath>
+              			<mainClass>${mainclass}</mainClass>
+              			<classpathPrefix>lib/</classpathPrefix>
+            		</manifest>
+            		<manifestEntries>
+              			<url>${project.url}</url>
+            		</manifestEntries>
+          		</archive>
+        		</configuration>        
+      		</plugin>		    
+		    
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.1</version>
+				<configuration>
+					<source>1.7</source>
+					<target>1.7</target>
+					<encoding>${project.build.sourceEncoding}</encoding>
+				</configuration>
+			</plugin>
+
+				<plugin>
+        			<groupId>org.apache.maven.plugins</groupId>
+        			<artifactId>maven-dependency-plugin</artifactId>
+        			<version>2.10</version>
+        			<executions>
+          				<execution>
+            				<id>copy-dependencies</id>
+            				<phase>package</phase>
+            				<goals>
+              					<goal>copy-dependencies</goal>
+            				</goals>
+            				<configuration>
+              					<outputDirectory>${project.build.directory}/lib</outputDirectory>
+              					<overWriteReleases>false</overWriteReleases>
+              					<overWriteSnapshots>false</overWriteSnapshots>
+              					<overWriteIfNewer>true</overWriteIfNewer>
+            				</configuration>
+          				</execution>          				         				          				
+        			</executions>
+      			</plugin>			
+			
+		    <plugin>
+		     <groupId>com.mycila.maven-license-plugin</groupId>
+		     <artifactId>maven-license-plugin</artifactId>
+		     <version>1.10.b1</version>
+		     <configuration>
+		      <header>LicenseHeader.txt</header>
+		      <properties>
+		       <project>
+		        ${project.name}
+		       </project>
+		       <founder>${project.organization.name}</founder>
+		       <year>${project.inceptionYear}</year>
+		       <website>${founder-website}</website>
+		      </properties>
+		      <includes>
+		       <include>src/main/java/**</include>
+		       <include>src/test/java/**</include>
+		      </includes>
+		     </configuration>
+		     <executions>
+		      <execution>
+		       <goals>
+		        <goal>format</goal>
+		       </goals>
+		       <phase>process-sources</phase>
+		      </execution>
+		     </executions>
+		     <dependencies>
+		      <dependency>
+		       <groupId>com.mycila</groupId>
+		       <artifactId>licenses</artifactId>
+		       <version>1</version>
+		      </dependency>
+		     </dependencies>
+		    </plugin>			
+						
+		</plugins>
+
+	</build>
+    
+</project>

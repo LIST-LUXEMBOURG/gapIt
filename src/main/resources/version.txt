@@ -1,0 +1,2 @@
+<i>Version ${project.version} </i> <br/>
+<i>Build id ${project.build.date}</i>
