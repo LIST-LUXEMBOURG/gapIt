@@ -14,11 +14,13 @@ The interactive but automated approach of gapIT, coupled with a visual inspectio
 Missing records in hydrological databases represent a loss of information and a serious drawback in water management (measures of river flow for example). An incomplete time series prevents the computation of hydrological statistics and indicators. Also, records with data gaps are not suitable as input or validation data for hydrological or hydrodynamic modeling.
 
 
-## Installation
+## Installation / execution
 
 Requirements: Maven (>=3.0.2), JDK (>=1.7).
 
 Compilation: "mvn clean package"
+
+Data preparation: "unzip data_fake2.zip"
 
 Execution for Windows environment: "run.bat"
 
@@ -38,9 +40,9 @@ Laura Giustarini, Olivier Parisot, Mohammad Ghoniem, Renaud Hostache, Ivonne Tre
 
 Laura Giustarini, Olivier Parisot, Mohammad Ghoniem, Ivonne Trebs, Nicolas Médoc, Olivier Faber, Renaud Hostache, Patrick Matgen, Benoît Otjacques: «Data-infilling in daily mean river flow records: first results using a visual analytics tool (gapIT)», «European Geosciences Union General Assembly 2015 (EGU 2015), Geophysical Research Abstracts Volume 17», Vienna, Austria, 4/2015
 
-Olivier Parisot, Laura Giustarini, Olivier Faber, Renaud Hostache, Ivonne Trebs, Mohammad Ghoniem: «gapIT: Un outil visuel pour l'imputation de valeurs manquantes en hydrologie», «EGC 2015», Luxembourg, 1/2015
+Olivier Parisot, Laura Giustarini, Olivier Faber, Renaud Hostache, Ivonne Trebs, Mohammad Ghoniem: «gapIT: Un outil visuel pour l'imputation de valeurs manquantes en hydrologie», «15ème conférence internationale sur l'extraction et la gestion des connaissances (EGC 2015)», Luxembourg, 1/2015
 
 
 ## License
 
-GPL v3, see LICENSE.txt.
+Licensed under GNU General Public License version 3, see LICENSE.txt.
