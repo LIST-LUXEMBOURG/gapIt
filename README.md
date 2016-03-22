@@ -1,3 +1,6 @@
+Copyright 2014 - 2016 Luxembourg Institute of Science and Technology (LIST). Any use of this software constitutes full acceptance of all terms of the software's license.
+
+
 ## Synopsis
 
 gapIT is an interactive software for gap filling in hydrological time series.
@@ -36,11 +39,11 @@ To get the real data or to integrate your own data, please contact Olivier Paris
 
 ## References
 
-Laura Giustarini, Olivier Parisot, Mohammad Ghoniem, Renaud Hostache, Ivonne Trebs, Benoît Otjacques: «gapIT: a user-driven case-based reasoning tool for infilling missing values in daily mean river flow records», «Tag der Hydrologie 2016», Koblenz, Germany, 17/3/2016
+Laura Giustarini, Olivier Parisot, Mohammad Ghoniem, Renaud Hostache, Ivonne Trebs, BenoÃ®t Otjacques: Â«gapIT: a user-driven case-based reasoning tool for infilling missing values in daily mean river flow recordsÂ», Â«Tag der Hydrologie 2016Â», Koblenz, Germany, 17/3/2016
 
-Laura Giustarini, Olivier Parisot, Mohammad Ghoniem, Ivonne Trebs, Nicolas Médoc, Olivier Faber, Renaud Hostache, Patrick Matgen, Benoît Otjacques: «Data-infilling in daily mean river flow records: first results using a visual analytics tool (gapIT)», «European Geosciences Union General Assembly 2015 (EGU 2015), Geophysical Research Abstracts Volume 17», Vienna, Austria, 4/2015
+Laura Giustarini, Olivier Parisot, Mohammad Ghoniem, Ivonne Trebs, Nicolas MÃ©doc, Olivier Faber, Renaud Hostache, Patrick Matgen, BenoÃ®t Otjacques: Â«Data-infilling in daily mean river flow records: first results using a visual analytics tool (gapIT)Â», Â«European Geosciences Union General Assembly 2015 (EGU 2015), Geophysical Research Abstracts Volume 17Â», Vienna, Austria, 4/2015
 
-Olivier Parisot, Laura Giustarini, Olivier Faber, Renaud Hostache, Ivonne Trebs, Mohammad Ghoniem: «gapIT: Un outil visuel pour l'imputation de valeurs manquantes en hydrologie», «15ème conférence internationale sur l'extraction et la gestion des connaissances (EGC 2015)», Luxembourg, 1/2015
+Olivier Parisot, Laura Giustarini, Olivier Faber, Renaud Hostache, Ivonne Trebs, Mohammad Ghoniem: Â«gapIT: Un outil visuel pour l'imputation de valeurs manquantes en hydrologieÂ», Â«15Ã¨me confÃ©rence internationale sur l'extraction et la gestion des connaissances (EGC 2015)Â», Luxembourg, 1/2015
 
 
 ## License
