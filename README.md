@@ -1,3 +1,5 @@
+# gapIt
+
 Copyright 2014 - 2016 Luxembourg Institute of Science and Technology (LIST). Any use of this software constitutes full acceptance of all terms of the software's license.
 
 
@@ -20,20 +22,26 @@ Missing records in hydrological databases represent a loss of information and a 
 ## Installation / execution
 
 ### Requirements
+
 Hardware: RAM>=4Gb.
+
 Software: Maven (>=3.0.2), JDK (>=1.7).
 
 ### Compilation
-"mvn clean package"
+
+mvn clean package
 
 ### Data preparation
-"unzip data_fake2.zip"
 
-### Execution for Windows environment
-"run.bat"
+unzip data_fake2.zip
 
-### Execution for others
-"java -jar -Xmx4G target/gapIt.jar"
+### Execution for Windows OS
+
+run.bat
+
+### Execution for others OS
+
+java -jar -Xmx4G target/gapIt.jar
 
 
 ## Data
