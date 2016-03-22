@@ -46,7 +46,17 @@ java -jar -Xmx4G target/gapIt.jar
 
 ## Data
 
-Fake data are provided within the distribution.
+Fake data are provided within the distribution (data_fake2.zip).
+
+In this archive, the required data files are:
+* all_valid_q_series_complete2.arff: the time series representing the measured discharge for each station, in an ARFF format (Weka).
+* knowledgeDB20-discharge.arff: the knowledge database, containing the Case-Based Reasoning data.
+* stations_coordinates.txt: the coordinates of each station.
+* stations_relationships_1.xml: the upstream/downstreams relationships between the stations (file 1/2).
+* stations_relationships_2.xml: the upstream/downstreams relationships between the stations (file 2/2).
+
+Additionally, a picture is used to show the shape of the studied country: shapeCountry.jpg.
+
 
 To get the real data or to integrate your own data, please contact Olivier Parisot (olivier.parisot@list.lu) or Ivonne Trebs (ivonne.trebs@list.lu).
 
