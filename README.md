@@ -72,4 +72,4 @@ Olivier Parisot, Laura Giustarini, Olivier Faber, Renaud Hostache, Ivonne Trebs,
 
 ## License
 
-Licensed under GNU General Public License version 3, see LICENSE.txt.
+Licensed under GNU General Public License version 3, see [LICENSE.txt] (./LICENSE.txt).
