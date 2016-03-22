@@ -19,15 +19,21 @@ Missing records in hydrological databases represent a loss of information and a 
 
 ## Installation / execution
 
-Requirements: Maven (>=3.0.2), JDK (>=1.7).
+### Requirements
+Hardware: RAM>=4Gb.
+Software: Maven (>=3.0.2), JDK (>=1.7).
 
-Compilation: "mvn clean package"
+### Compilation
+"mvn clean package"
 
-Data preparation: "unzip data_fake2.zip"
+### Data preparation
+"unzip data_fake2.zip"
 
-Execution for Windows environment: "run.bat"
+### Execution for Windows environment
+"run.bat"
 
-Execution for others: "java -jar -Xmx4G target/gapIt.jar"
+### Execution for others
+"java -jar -Xmx4G target/gapIt.jar"
 
 
 ## Data
