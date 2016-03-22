@@ -63,11 +63,11 @@ To get the real data or to integrate your own data, please contact Olivier Paris
 
 ## References
 
-Laura Giustarini, Olivier Parisot, Mohammad Ghoniem, Renaud Hostache, Ivonne Trebs, Benoît Otjacques: «gapIT: a user-driven case-based reasoning tool for infilling missing values in daily mean river flow records», «Tag der Hydrologie 2016», Koblenz, Germany, 17/3/2016 [link] (https://scholar.google.lu/citations?view_op=view_citation&hl=fr&user=OeqhaZ4AAAAJ&sortby=pubdate&citation_for_view=OeqhaZ4AAAAJ:4TOpqqG69KYC)
+Laura Giustarini, Olivier Parisot, Mohammad Ghoniem, Renaud Hostache, Ivonne Trebs, Benoît Otjacques: «gapIT: a user-driven case-based reasoning tool for infilling missing values in daily mean river flow records», «Tag der Hydrologie 2016», Koblenz, Germany, 17/3/2016 [(link)] (https://scholar.google.lu/citations?view_op=view_citation&hl=fr&user=OeqhaZ4AAAAJ&sortby=pubdate&citation_for_view=OeqhaZ4AAAAJ:4TOpqqG69KYC)
 
-Laura Giustarini, Olivier Parisot, Mohammad Ghoniem, Ivonne Trebs, Nicolas Médoc, Olivier Faber, Renaud Hostache, Patrick Matgen, Benoît Otjacques: «Data-infilling in daily mean river flow records: first results using a visual analytics tool (gapIT)», «European Geosciences Union General Assembly 2015 (EGU 2015), Geophysical Research Abstracts Volume 17», Vienna, Austria, 4/2015
+Laura Giustarini, Olivier Parisot, Mohammad Ghoniem, Ivonne Trebs, Nicolas Médoc, Olivier Faber, Renaud Hostache, Patrick Matgen, Benoît Otjacques: «Data-infilling in daily mean river flow records: first results using a visual analytics tool (gapIT)», «European Geosciences Union General Assembly 2015 (EGU 2015), Geophysical Research Abstracts Volume 17», Vienna, Austria, 4/2015 [(link)] (http://adsabs.harvard.edu/abs/2015EGUGA..1710462G)
 
-Olivier Parisot, Laura Giustarini, Olivier Faber, Renaud Hostache, Ivonne Trebs, Mohammad Ghoniem: «gapIT: Un outil visuel pour l'imputation de valeurs manquantes en hydrologie», «15ème conférence internationale sur l'extraction et la gestion des connaissances (EGC 2015)», Luxembourg, 1/2015
+Olivier Parisot, Laura Giustarini, Olivier Faber, Renaud Hostache, Ivonne Trebs, Mohammad Ghoniem: «gapIT: Un outil visuel pour l'imputation de valeurs manquantes en hydrologie», «15ème conférence internationale sur l'extraction et la gestion des connaissances (EGC 2015)», Luxembourg, 1/2015 [link]  (http://editions-rnti.fr/?inprocid=1002107&PHPSESSID=ks64gh4ktvuilvujuu9lcva5i4&lg=en&PHPSESSID=ks64gh4ktvuilvujuu9lcva5i4)
 
 
 ## License
