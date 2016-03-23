@@ -7,7 +7,7 @@ Copyright 2014 - 2016 Luxembourg Institute of Science and Technology (LIST). Any
 
 gapIT is an interactive software for gap filling in hydrological time series.
 
-Given as input hydrological discharge data series measures at gauging stations, it performs an automated calculation of missing data using different data-infilling techniques. Donor station(s) are automatically selected based on Dynamic Time Warping, geographical proximity and upstream/downstream relationships among stations. For each gap, the tool computes several flow estimates through various data-infilling techniques, including interpolation, multiple regression, regression trees and neural networks. The visual application provides the possibility for the user to select different donor station(s) w.r.t. those automatically selected.
+Given as input hydrological discharge data series measured at gauging stations, it performs an automated calculation of missing data using different data-infilling techniques. Donor station(s) are automatically selected based on Dynamic Time Warping, geographical proximity and upstream/downstream relationships among stations. For each gap, the tool computes several flow estimates through various data-infilling techniques, including interpolation, multiple regression, regression trees and neural networks. The visual application provides the possibility for the user to select different donor station(s) w.r.t. those automatically selected.
 
 The results are validated by randomly creating artificial gaps of different lengths and positions along the entire records. Using the Root Mean Squared Error and the Nash-Sutcliffe coefficient as performance measures, the method is evaluated based on a comparison with the actual measured discharge values.
 
@@ -52,8 +52,8 @@ In this archive, the required data files are:
 * all_valid_q_series_complete2.arff: the time series representing the measured discharge for each station, in an ARFF format (Weka).
 * knowledgeDB20-discharge.arff: the knowledge database, containing the Case-Based Reasoning data.
 * stations_coordinates.txt: the coordinates of each station.
-* stations_relationships_1.xml: the upstream/downstreams relationships between the stations (file 1/2).
-* stations_relationships_2.xml: the upstream/downstreams relationships between the stations (file 2/2).
+* stations_relationships_1.xml: the upstream/downstreams relationships among the stations (file 1/2).
+* stations_relationships_2.xml: the upstream/downstreams relationships among the stations (file 2/2).
 
 Additionally, a picture is used to show the shape of the studied country: shapeCountry.jpg.
 
