@@ -46,7 +46,7 @@ java -jar -Xmx4G target/gapIt.jar
 
 ## Data
 
-gapIt was used to fill gaps in discharge time series at Luxembourg (see the 'References' section).
+gapIt was used to fill gaps in water discharge time series at Luxembourg (see the 'References' section).
 During tests phases, it was used too for the processing of water level time series.
 
 Here, fake data are provided within the distribution [data_fake2.zip] (./data_fake2.zip). These data were derived from real data using a random method. To get the real data or to integrate your own data, please contact Olivier Parisot (olivier.parisot@list.lu) or Ivonne Trebs (ivonne.trebs@list.lu).
