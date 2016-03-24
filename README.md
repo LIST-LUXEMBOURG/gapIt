@@ -1,6 +1,6 @@
 # gapIt
 
-Copyright 2014 - 2016 Luxembourg Institute of Science and Technology (LIST - [http://www.list.lu/](http://www.list.lu/)). Any use of this software constitutes full acceptance of all terms of the software's license.
+Copyright 2014 - 2016 Luxembourg Institute of Science and Technology (LIST - <a href="http://www.list.lu/" target="_blank">http://www.list.lu/</a>). Any use of this software constitutes full acceptance of all terms of the software's license.
 
 
 ## Synopsis
