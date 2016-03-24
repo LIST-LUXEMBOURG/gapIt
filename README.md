@@ -46,9 +46,12 @@ java -jar -Xmx4G target/gapIt.jar
 
 ## Data
 
-Fake data are provided within the distribution [data_fake2.zip] (./data_fake2.zip).
+gapIt was used to fill gaps in discharge time series at Luxembourg (see the 'References' section).
+During tests phases, it was used too for the processing of water level time series.
 
-In this archive, the required data files are:
+Here, fake data are provided within the distribution [data_fake2.zip] (./data_fake2.zip). These data were derived from real data using a random method. To get the real data or to integrate your own data, please contact Olivier Parisot (olivier.parisot@list.lu) or Ivonne Trebs (ivonne.trebs@list.lu).
+
+In this archive ([data_fake2.zip] (./data_fake2.zip)), the required data files are:
 * all_valid_q_series_complete2.arff: the time series representing the measured discharge for each station, in an ARFF format (Weka).
 * knowledgeDB20-discharge.arff: the knowledge database, containing the Case-Based Reasoning data.
 * stations_coordinates.txt: the coordinates of each station.
@@ -56,9 +59,6 @@ In this archive, the required data files are:
 * stations_relationships_2.xml: the upstream/downstreams relationships among the stations (file 2/2).
 
 Additionally, a picture is used to show the shape of the studied country: shapeCountry.jpg.
-
-
-To get the real data or to integrate your own data, please contact Olivier Parisot (olivier.parisot@list.lu) or Ivonne Trebs (ivonne.trebs@list.lu).
 
 
 ## References
