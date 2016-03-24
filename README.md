@@ -57,8 +57,7 @@ In this archive ([data_fake2.zip] (./data_fake2.zip)), the required data files a
 * stations_coordinates.txt: the coordinates of each station.
 * stations_relationships_1.xml: the upstream/downstreams relationships among the stations (file 1/2).
 * stations_relationships_2.xml: the upstream/downstreams relationships among the stations (file 2/2).
-
-Additionally, a picture is used to show the shape of the studied country: shapeCountry.jpg.
+* shapeCountry.jpg: a picture to show the shape of the studied country.
 
 
 ## References
