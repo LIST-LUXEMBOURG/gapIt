@@ -29,7 +29,7 @@ Software: Maven (>=3.0.2), JDK (>=1.7).
 
 ### Compilation
 
-mvn clean package
+launch 'mvn clean package' 
 
 ### Data preparation
 
@@ -37,11 +37,11 @@ unzip [data_fake2.zip] (./data_fake2.zip) in the same directory
 
 ### Execution for Windows OS
 
-run.bat
+launch 'run.bat'
 
 ### Execution for others OS
 
-java -jar -Xmx4G target/gapIt.jar
+launch 'java -jar -Xmx4G target/gapIt.jar'
 
 
 ## Data
