@@ -25,7 +25,7 @@ Missing records in hydrological databases represent a loss of information and a 
 
 Hardware: RAM>=4Gb.
 
-Software: Maven (>=3.0.2 - [https://maven.apache.org/] (https://maven.apache.org/)), JDK (>=1.7).
+Software: Maven (>=3.0.2 - [https://maven.apache.org/] (https://maven.apache.org/)), JDK (>=1.7 - [http://www.oracle.com/technetwork/java/javase/downloads/] (http://www.oracle.com/technetwork/java/javase/downloads/)).
 
 ### Compilation
 
