@@ -25,7 +25,9 @@ Missing records in hydrological databases represent a loss of information and a 
 
 Hardware: RAM>=4Gb.
 
-Software: Maven (>=3.0.2 - [https://maven.apache.org/] (https://maven.apache.org/)), JDK (>=1.7 - [http://www.oracle.com/technetwork/java/javase/downloads/] (http://www.oracle.com/technetwork/java/javase/downloads/)).
+Software: 
+* JDK (>=1.7 - [http://www.oracle.com/technetwork/java/javase/downloads/] (http://www.oracle.com/technetwork/java/javase/downloads/)).
+* Maven (>=3.0.2 - [https://maven.apache.org/] (https://maven.apache.org/))
 
 ### Compilation
 
@@ -39,7 +41,7 @@ unzip [data_fake2.zip] (./data_fake2.zip) in the same directory
 
 launch 'run.bat'
 
-### Execution for others OS
+### Execution for other OS
 
 launch 'java -jar -Xmx4G target/gapIt.jar'
 
