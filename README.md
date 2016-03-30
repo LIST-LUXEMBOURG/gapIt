@@ -33,7 +33,7 @@ mvn clean package
 
 ### Data preparation
 
-unzip data_fake2.zip in the same directory
+unzip [data_fake2.zip] (./data_fake2.zip) in the same directory
 
 ### Execution for Windows OS
 
