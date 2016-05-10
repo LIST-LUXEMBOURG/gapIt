@@ -65,7 +65,7 @@ In this archive ([data_fake2.zip] (./data_fake2.zip)), the required data files a
 
 ## Screenshots
 
-![First one](/images/logo.png)
+![First one](/picture0.png)
 
 ## References
 
