@@ -63,6 +63,10 @@ In this archive ([data_fake2.zip] (./data_fake2.zip)), the required data files a
 * *shapeCountry.jpg*: a picture to show the shape of the studied country.
 
 
+## Screenshots
+
+![First one](/images/logo.png)
+
 ## References
 
 This section lists scientific publications in which gapIt is used. 
