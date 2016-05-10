@@ -55,12 +55,12 @@ During tests phases, it was used too for the processing of water level time seri
 Here, fake data are provided within the distribution [data_fake2.zip] (./data_fake2.zip). These data were derived from real data using a random method. To get the real data or to integrate your own data, please contact Olivier Parisot (olivier.parisot@list.lu) or Ivonne Trebs (ivonne.trebs@list.lu).
 
 In this archive ([data_fake2.zip] (./data_fake2.zip)), the required data files are:
-* all_valid_q_series_complete2.arff: the time series representing the measured discharge for each station, under the [ARFF format] (https://weka.wikispaces.com/ARFF).
-* knowledgeDB20-discharge.arff: the knowledge database containing the Case-Based Reasoning data, under the ARFF format too.
-* stations_coordinates.txt: the coordinates of each station.
-* stations_relationships_1.xml: the upstream/downstreams relationships among the stations (file 1/2).
-* stations_relationships_2.xml: the upstream/downstreams relationships among the stations (file 2/2).
-* shapeCountry.jpg: a picture to show the shape of the studied country.
+* *all_valid_q_series_complete2.arff*: the time series representing the measured discharge for each station, under the [ARFF format] (https://weka.wikispaces.com/ARFF).
+* *knowledgeDB20-discharge.arff*: the knowledge database containing the Case-Based Reasoning data, under the ARFF format too.
+* *stations_coordinates.txt*: the coordinates of each station.
+* *stations_relationships_1.xml*: the upstream/downstreams relationships among the stations (file 1/2).
+* *stations_relationships_2.xml*: the upstream/downstreams relationships among the stations (file 2/2).
+* *shapeCountry.jpg*: a picture to show the shape of the studied country.
 
 
 ## References
