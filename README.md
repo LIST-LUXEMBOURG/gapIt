@@ -31,7 +31,7 @@ Software:
 
 ### Compilation
 
-launch 'mvn clean package -Dmaven.test.skip=true'  (some tests are currently not ok, and without the '-Dmaven.test.skip=true' option the build fails).
+launch 'mvn clean package -Dmaven.test.skip=true'  (*some tests are currently not ok, and without the '-Dmaven.test.skip=true' option the build fails*).
 
 ### Data preparation
 
