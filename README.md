@@ -64,6 +64,8 @@ In this archive ([data_fake2.zip] (./data_fake2.zip)), the required data files a
 
 ## References
 
+Laura Giustarini, Olivier Parisot, Mohammad Ghoniem, Renaud Hostache, Ivonne Trebs, Benoît Otjacques: «A user-driven case-based reasoning tool for infilling missing values in daily mean river flow records», «Environmental Modelling and Software», Elsevier, 5/2016 [(link)] (https://scholar.google.lu/citations?view_op=view_citation&hl=fr&user=OeqhaZ4AAAAJ&sortby=pubdate&citation_for_view=OeqhaZ4AAAAJ:qxL8FJ1GzNcC)
+
 Laura Giustarini, Olivier Parisot, Mohammad Ghoniem, Renaud Hostache, Ivonne Trebs, Benoît Otjacques: «gapIT: a user-driven case-based reasoning tool for infilling missing values in daily mean river flow records», «Tag der Hydrologie 2016», Koblenz, Germany, 17/3/2016 [(link)] (https://scholar.google.lu/citations?view_op=view_citation&hl=fr&user=OeqhaZ4AAAAJ&sortby=pubdate&citation_for_view=OeqhaZ4AAAAJ:4TOpqqG69KYC)
 
 Laura Giustarini, Olivier Parisot, Mohammad Ghoniem, Ivonne Trebs, Nicolas Médoc, Olivier Faber, Renaud Hostache, Patrick Matgen, Benoît Otjacques: «Data-infilling in daily mean river flow records: first results using a visual analytics tool (gapIT)», «European Geosciences Union General Assembly 2015 (EGU 2015), Geophysical Research Abstracts Volume 17», Vienna, Austria, 4/2015 [(link)] (http://adsabs.harvard.edu/abs/2015EGUGA..1710462G)
