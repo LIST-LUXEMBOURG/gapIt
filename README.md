@@ -32,7 +32,7 @@ Software:
 ### Compilation
 
 launch 'mvn clean package -Dmaven.test.skip=true'  
-(*some tests are currently not ok, and without the '-Dmaven.test.skip=true' option the build fails*)
+(*some tests are currently not ok, and the build fails without the '-Dmaven.test.skip=true' option*)
 
 ### Data preparation
 
