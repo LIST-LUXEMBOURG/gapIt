@@ -65,6 +65,8 @@ In this archive ([data_fake2.zip] (./data_fake2.zip)), the required data files a
 
 ## References
 
+This page lists scientific publications in which gapIt is used. If you also have employed gapIt, send an email to olivier.parisot@list.lu to have your publication listed here.
+
 Laura Giustarini, Olivier Parisot, Mohammad Ghoniem, Renaud Hostache, Ivonne Trebs, Benoît Otjacques: 
 **«A user-driven case-based reasoning tool for infilling missing values in daily mean river flow records»**, «Environmental Modelling and Software», Elsevier, 5/2016 [(link)] (https://scholar.google.lu/citations?view_op=view_citation&hl=fr&user=OeqhaZ4AAAAJ&sortby=pubdate&citation_for_view=OeqhaZ4AAAAJ:qxL8FJ1GzNcC)
 
