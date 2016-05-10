@@ -65,11 +65,11 @@ In this archive ([data_fake2.zip] (./data_fake2.zip)), the required data files a
 
 ## Screenshots
 
-![pic1](/picture0.png)
+![pic1](/pictures/picture0.png)
 
-![pic2](/picture2.png)
+![pic2](/pictures/picture2.png)
 
-![pic3](/picture3.png)
+![pic3](/pictures/picture3.png)
 
 
 ## References
