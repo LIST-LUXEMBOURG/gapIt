@@ -71,6 +71,10 @@ In this archive ([data_fake2.zip] (./data_fake2.zip)), the required data files a
 
 ![pic3](/pictures/picture3.png)
 
+## Video
+
+![video](/video/GapIT_Video2.wmv)
+
 
 ## References
 
