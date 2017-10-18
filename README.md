@@ -1,6 +1,6 @@
 # gapIt
 
-Copyright 2014 - 2016 Luxembourg Institute of Science and Technology (LIST - [http://www.list.lu/](http://www.list.lu/)). Any use of this software constitutes full acceptance of all terms of the software's license.
+Copyright 2014 - 2017 Luxembourg Institute of Science and Technology (LIST - [http://www.list.lu/](http://www.list.lu/)). Any use of this software constitutes full acceptance of all terms of the software's license.
 
 
 ## Synopsis
@@ -94,4 +94,4 @@ If you also have employed gapIt, send an email to olivier.parisot@list.lu to hav
 
 ## License
 
-Licensed under GNU General Public License version 3, see [LICENSE.txt] (./LICENSE.txt).
+Licensed under GNU General Public License version 3, see [(LICENSE.txt)] (./LICENSE.txt) .
