@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Sep 27 08:33:48 CEST 2016
+pdm-timeseriesforecasting-1.1.1.pom>pentaho-releases=
+pdm-timeseriesforecasting-1.1.1.jar>=
+pdm-timeseriesforecasting-1.1.1.jar>pentaho-releases=

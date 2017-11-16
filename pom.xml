@@ -150,11 +150,7 @@
 		
 	</dependencies>
 
-	<repositories>	    
-	    <repository>
-    		<id>pentaho-releases</id>
-    		<url>http://repository.pentaho.org/artifactory/repo/</url>
-  		</repository>	    
+	<repositories>	        
 		<repository>
 			<id>central</id>
 			<name>Maven Repository Switchboard</name>
