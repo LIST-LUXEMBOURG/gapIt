@@ -1,6 +1,8 @@
 # gapIt
 
-Copyright 2014 - 2017 Luxembourg Institute of Science and Technology (LIST - [http://www.list.lu/](http://www.list.lu/)). Any use of this software constitutes full acceptance of all terms of the software's license.
+Copyright 2014 - 2019 Luxembourg Institute of Science and Technology (LIST - [http://www.list.lu/](http://www.list.lu/)). Any use of this software constitutes full acceptance of all terms of the software's license.
+
+NEW version: see [](https://git.list.lu/eScience/gapIt).
 
 
 ## Synopsis
@@ -90,6 +92,11 @@ This section lists scientific publications in which gapIt is used.
  * Olivier Parisot, Laura Giustarini, Olivier Faber, Renaud Hostache, Ivonne Trebs, Mohammad Ghoniem: **«gapIT: Un outil visuel pour l'imputation de valeurs manquantes en hydrologie»**, «15ème conférence internationale sur l'extraction et la gestion des connaissances (EGC 2015)», Luxembourg, 1/2015 [(link)](http://editions-rnti.fr/?inprocid=1002107&PHPSESSID=ks64gh4ktvuilvujuu9lcva5i4&lg=en&PHPSESSID=ks64gh4ktvuilvujuu9lcva5i4)
 
 If you also have employed gapIt, send an email to olivier.parisot@list.lu to have your publication listed here.
+
+
+## Contact
+
+Any question? Please contact [Olivier Parisot](olivier.parisot@list.lu) or visit the [LIST website](https://www.list.lu/en/contact/).
 
 
 ## License
