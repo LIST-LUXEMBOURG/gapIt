@@ -1,6 +1,7 @@
 # gapIt
 
-Copyright 2014 - 2019 Luxembourg Institute of Science and Technology (LIST - [http://www.list.lu/](http://www.list.lu/)). Any use of this software constitutes full acceptance of all terms of the software's license.
+Copyright 2014 - 2020 Luxembourg Institute of Science and Technology (LIST - [http://www.list.lu/](http://www.list.lu/)). 
+Any use of this software constitutes full acceptance of all terms of the software's license.
 
 NEW version: see [https://git.list.lu/eScience/gapIt](https://git.list.lu/eScience/gapIt).
 
