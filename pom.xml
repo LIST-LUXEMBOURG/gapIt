@@ -9,7 +9,7 @@
   
   <groupId>lu.lippmann.cdb.ext.hydviga</groupId>
   <artifactId>HyMiVApp</artifactId>
-  <version>0.9.2</version>
+  <version>0.9.3</version>
   <packaging>jar</packaging>
 
   <name>HyMiVApp</name>
@@ -155,7 +155,7 @@
 			<id>central</id>
 			<name>Maven Repository Switchboard</name>
 			<layout>default</layout>
-			<url>http://repo1.maven.org/maven2</url>
+			<url>https://repo1.maven.org/maven2</url>
 			<snapshots>
 				<enabled>false</enabled>
 			</snapshots>
